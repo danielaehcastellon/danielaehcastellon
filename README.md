@@ -1,0 +1,4 @@
+- Hi, I’m Dani 👋 
+- 🌱 I’m currently learning some languages, the first one was JavaScript. 
+- 💞️ I deeply wish to put it into practice!
+- 📫 So, yes! i'm interested!
